@@ -1,3 +1,7 @@
+# Deprecated
+
+This repo has been moved [here](https://github.com/electrode-io/electrode/tree/21af414fc46681e419a5098396fdff6bd54508da/samples/electrode-demo-index)
+
 #Electrode Demo Index
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
